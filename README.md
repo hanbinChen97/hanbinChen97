@@ -63,4 +63,3 @@ Here are some ideas to get you started:
 - 🌍 Analyzed climate data and visualized results using Matplotlib/Seaborn.
 - 🐳 Utilized Git for version control and **Docker** for containerized development environment.
 - 🤝 Collaborated with research team to maintain data processing pipeline and documentation.
-
