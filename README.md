@@ -43,9 +43,20 @@ Here are some ideas to get you started:
 - 🔗 Created knowledge graphs from extracted entities and relationships
 - 🌐 [Use Demo on Hugging Face](https://huggingface.co/spaces/hanbinChen/medKGC)
 
-<!-- 
-我喜欢编程，喜欢研究新技术，喜欢解决问题，喜欢和团队一起工作。
-设计模式
-functional programming
-全栈
- -->
+### 💼 Student Jobs
+#### MedAgent (Medical Guidelines System Based on Agentic AI Workflows)
+- 🖥️ Developed the frontend using **TypeScript**.
+- 💬 Designed interactive chat components using **React**.
+- 🌐 Integrated internationalization (i18n) to support multiple languages.
+- 🔗 [MedAgent](https://github.com/MouYongli/MedAgent)
+
+#### KlimDim (Adaptation of dimensioning for climate change)
+- 🌍 Analyzed climate data and visualized results using Matplotlib/Seaborn.
+- 🐳 Utilized Git for version control and **Docker** for containerized development environment.
+- 🤝 Collaborated with research team to maintain data processing pipeline and documentation.
+- 🔗 [React Ranking Page](https://github.com/hanbinChen97/react-ranking-page)
+
+### 🔗 GitHub Repositories
+- [MedAgent](https://github.com/MouYongli/MedAgent)
+- [React Ranking Page](https://github.com/hanbinChen97/react-ranking-page)
+- [MedAgent](https://github.com/MouYongli/MedAgent)
