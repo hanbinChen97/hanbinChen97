@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--
-**JohannHalley/JohannHalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -  ...
 - 🌱 I’m currently learning ...
@@ -11,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: love jogging🏃‍♂️, playing basketball🏀, fitness gym.
 -->
 
 - 👋 Hi, I'm Hanbin Chen, a **Master Computer Science** student at **RWTH Aachen University**.
@@ -19,6 +17,8 @@ Here are some ideas to get you started:
 - 💻 I'm passionate about software development, particularly using **Python, Java and Kotlin**.
 - 🎓 I previously studied Applied Computer Science at **Hochschule Hannover**.
 - 🔭 I’m currently working on my Master thesis: "Construction of Knowledge Graph from Radiology Reports using LLMs".
+- ⚡ Fun fact: love jogging🏃‍♂️, playing basketball🏀, fitness gym.
+
 
 ### 📚 Projects 
 #### (2024.06--2025.03) Knowledge Graph Construction from Radiology Reports(Master Thesis)
