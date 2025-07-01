@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Master of CS** graduate from **RWTH Aachen University**, specializing in **LLM applications, agents, and workflow automation**.
+**Master of CS** graduate from **RWTH Aachen University**, specializing in **LLM applications, agents, and workflow automation**.  [Portfolio Website](https://hanbinchen.netlify.app)
 
 **Interests:** Jogging 🏃‍♂️ | Basketball 🏀 | Gym 🏋️
 
@@ -14,7 +14,6 @@
 
 ### 🌟 Featured Projects
 
-**🌐 Personal Website**: [Portfolio Website](https://hanbinchen.netlify.app)
 
 **🏆 Competition Winner**: [VCT EVA (Devpost Top 25/1000+)](https://devpost.com/software/shadow-code-zero-terminal)
 
