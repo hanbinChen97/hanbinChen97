@@ -20,8 +20,6 @@
 
 **🧠 AI/ML Projects**
 - [MedKGC Demo (Hugging Face Space)](https://huggingface.co/spaces/hanbinChen/medKGC)
-- [MedKGC (Master Thesis)](https://github.com/JohannHalley/Master-Thesis)
-- [MedAgent (Next.js + LLM Agents)](https://github.com/MouYongli/MedAgent)
 
 **💼 Full-Stack Applications**
 - [Trading Dashboard (React + FastAPI)](https://github.com/hanbinChen97/react-ranking-page)
