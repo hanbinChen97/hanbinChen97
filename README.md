@@ -1,26 +1,29 @@
 ## Hi there 👋
 
-- 👋 Hi, I'm Hanbin Chen, a **Master of Computer Science** graduate from **RWTH Aachen University**.
-- 👀 I'm interested in **Data Science📊, LLMs🤖, and Software Engineering🖥️.**
-- 💻 I'm passionate about software engineering, particularly using **Python, JavaScript, Java, and Kotlin**.
-- 🔭 I’m currently researching **agents, workflow automation, and LLM applications**.
-- ⚡ Fun fact: I love jogging🏃‍♂️, playing basketball🏀, and going to the gym.
+**Master of CS** graduate from **RWTH Aachen University**, specializing in **LLM applications, agents, and workflow automation**.
 
-### 🛠️ Skills
+🔍 **Focus Areas:** Data Science 📊 | LLMs 🤖 | Software Engineering 🖥️  
+⚡ **Interests:** Jogging 🏃‍♂️ | Basketball 🏀 | Gym 🏋️
 
-- **Programming Languages:** Python, JavaScript, Java, Kotlin
-- **Frameworks & Libraries:** React, Vue.js, Next.js, Streamlit, Gradio, Lightweight Charts, Swing
-- **AI & Data Science:** LLMs (GPT-4o, Llama 3, BERT), Hugging Face, UMLS, RAG, Biomedical NLP
-- **DevOps & Tools:** Docker, AWS EC2, CI/CD, Git
-- **Databases:** SQL, MongoDB, SQLite, MySQL
-- **Other:** Android Development, Google Maps API, MVC/MVVM, REST, Data Visualization (Matplotlib, Seaborn)
+### 🛠️ Tech Stack
 
-### 🔗 Links
+**🚀 Full-Stack:** React, Next.js, FastAPI, Streamlit  
+**🤖 AI/ML:** LLMs (GPT-4o, Llama 3, BERT), Hugging Face, RAG, Biomedical NLP  
+**☁️ DevOps:** Docker, AWS EC2, CI/CD  
+**💾 Data:** SQL, MongoDB, MySQL, S3, minio  
+**🎯 Other:** RESTful API, System Design (MVC/MVVM), Data Visualization
 
-- [MedAgent](https://github.com/MouYongli/MedAgent)
-- [Devpost (Top 25/1000+)](https://devpost.com/software/shadow-code-zero-terminal)
-- [Demo: medKGC](https://huggingface.co/spaces/hanbinChen/medKGC)
-- [MedKGC](https://github.com/JohannHalley/Master-Thesis)
-- [Trading Dashboard](https://github.com/hanbinChen97/react-ranking-page)
-- [SISSI](https://github.com/JohannHalley/SISSI)
-- [Connect Four game](https://gitlab.com/hanbin.9797/viergewinnt)
+### 🌟 Featured Projects
+
+**🏆 Competition Winner**
+- [VCT EVA (Devpost Top 25/1000+)](https://devpost.com/software/shadow-code-zero-terminal)
+
+**🧠 AI/ML Projects**
+- [MedKGC Demo (Hugging Face Space)](https://huggingface.co/spaces/hanbinChen/medKGC)
+- [MedKGC (Master Thesis)](https://github.com/JohannHalley/Master-Thesis)
+- [MedAgent (Next.js + LLM Agents)](https://github.com/MouYongli/MedAgent)
+
+**💼 Full-Stack Applications**
+- [Trading Dashboard (React + FastAPI)](https://github.com/hanbinChen97/react-ranking-page)
+- [SISSI (Android App)](https://github.com/JohannHalley/SISSI)
+- [Connect Four (Java Game)](https://gitlab.com/hanbin.9797/viergewinnt)
