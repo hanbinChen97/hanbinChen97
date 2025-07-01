@@ -2,8 +2,7 @@
 
 **Master of CS** graduate from **RWTH Aachen University**, specializing in **LLM applications, agents, and workflow automation**.
 
-🔍 **Focus Areas:** Data Science 📊 | LLMs 🤖 | Software Engineering 🖥️  
-⚡ **Interests:** Jogging 🏃‍♂️ | Basketball 🏀 | Gym 🏋️
+**Interests:** Jogging 🏃‍♂️ | Basketball 🏀 | Gym 🏋️
 
 ### 🛠️ Tech Stack
 
@@ -15,11 +14,11 @@
 
 ### 🌟 Featured Projects
 
-**🏆 Competition Winner**
-- [VCT EVA (Devpost Top 25/1000+)](https://devpost.com/software/shadow-code-zero-terminal)
+**🌐 Personal Website**: [Portfolio Website](https://hanbinchen.netlify.app)
 
-**🧠 AI/ML Projects**
-- [MedKGC Demo (Hugging Face Space)](https://huggingface.co/spaces/hanbinChen/medKGC)
+**🏆 Competition Winner**: [VCT EVA (Devpost Top 25/1000+)](https://devpost.com/software/shadow-code-zero-terminal)
+
+**🧠 AI/ML Projects**:  [MedKGC Demo (Hugging Face Space)](https://huggingface.co/spaces/hanbinChen/medKGC)
 
 **💼 Full-Stack Applications**
 - [Trading Dashboard (React + FastAPI)](https://github.com/hanbinChen97/react-ranking-page)
