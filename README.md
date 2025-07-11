@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-**Master of CS** graduate from **RWTH Aachen University**, specializing in **LLM applications, agents, and workflow automation**.  [Portfolio Website](https://hanbinchen.netlify.app)
+**Master of CS** graduate from **RWTH Aachen University**,   [Portfolio Website](https://hanbinchen.netlify.app)  
+specializing in **LLM applications, agents, and workflow automation**.
 
 **Interests:** Jogging 🏃‍♂️ | Basketball 🏀 | Gym 🏋️
 
