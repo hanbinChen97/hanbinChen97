@@ -21,7 +21,10 @@ I am passionate about **LLM applications, agents, and workflow automation**.
 **🧠 Master thesis: AI/ML Projects**:  
 - [MedKGC Demo (Hugging Face Space)](https://huggingface.co/spaces/hanbinChen/medKGC)
 
-**💼 Full-Stack Applications**
+**💼 Full-Stack Applications**  
+- [SuperC Termin Bot(full-stack)](https://github.com/hanbinChen97/superC-termin-bot)
+    - side project with 200+ users
+    - tech: python, javascript, supabase
 - [Trading Dashboard (React + FastAPI)](https://github.com/hanbinChen97/react-ranking-page)
 - [SISSI (Android App)](https://github.com/JohannHalley/SISSI)
 - [Connect Four (Java Game)](https://gitlab.com/hanbin.9797/viergewinnt)
