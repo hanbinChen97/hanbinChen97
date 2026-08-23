@@ -14,11 +14,12 @@ I am passionate about **LLM applications, agents, and workflow automation**.
 ### 🌟 Featured Projects
 
 
-**🏆 Competition Winner**: [VCT EVA (Devpost Top 25/1000+)](https://devpost.com/software/shadow-code-zero-terminal)
+**🏆 Competition Winner**: [VCT EVA (Devpost Top 25/1000+)](https://devpost.com/software/shadow-code-zero-terminal) — *Main Contributor*
 - RAG-powered **chatbot** 
 - Dedicated **subagent** handles DB retrieval as knowledge base
 
-**🧠 AI/ML Projects**:  [MedKGC Demo (Hugging Face Space)](https://huggingface.co/spaces/hanbinChen/medKGC)
+**🧠 Master thesis: AI/ML Projects**:  
+- [MedKGC Demo (Hugging Face Space)](https://huggingface.co/spaces/hanbinChen/medKGC)
 
 **💼 Full-Stack Applications**
 - [Trading Dashboard (React + FastAPI)](https://github.com/hanbinChen97/react-ranking-page)
