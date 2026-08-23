@@ -1,7 +1,5 @@
 ## Hi there 👋
-**AI native** engineer!  
-Master of CS @ RWTH Aachen University  
-[Personal Website](https://hanbinchen.netlify.app)
+**AI native** engineer! Master of CS @ RWTH Aachen University [Personal Website](https://hanbinchen.netlify.app)
 
 I am passionate about **LLM applications, agents, and workflow automation**.
 
